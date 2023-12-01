@@ -2,11 +2,11 @@ class CfgPatches {
 	class Druid_Uniforms {
 		units[] = 
         {
-            "24th_Athena_BDU_V_Slim"
+            "24th_Druid_BDU_V_Slim"
         };
 		weapons[] = 
         {
-            "24th_Athena_BDU_Slim"
+            "24th_Druid_BDU_Slim"
         };
 		requiredVersion = 0.100000;
 		requiredAddons[] = {};
@@ -26,8 +26,8 @@ class 24th_Druid_BDU_Slim: VES_BDU_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform (Urban)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform (Urban)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -36,15 +36,15 @@ class 24th_Druid_BDU_Slim: VES_BDU_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_V_Slim";
+			uniformClass="24th_Druid_BDU_V_Slim";
 		};
 	};
 class 24th_Druid_BDU_R_Slim: VES_BDU_R_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Rolled (Urban)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Rolled (Urban)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -53,15 +53,15 @@ class 24th_Druid_BDU_R_Slim: VES_BDU_R_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_R_V_Slim";
+			uniformClass="24th_Druid_BDU_R_V_Slim";
 		};
 	};
 class 24th_Druid_BDU_SS_Slim: VES_BDU_SS_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Short Sleeve (Urban)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Short Sleeve (Urban)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -70,7 +70,7 @@ class 24th_Druid_BDU_SS_Slim: VES_BDU_SS_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_SS_V_Slim";
+			uniformClass="24th_Druid_BDU_SS_V_Slim";
 		};
 	};
 // Desert Uniform
@@ -78,8 +78,8 @@ class 24th_Druid_BDU_Slim_Desert: VES_BDU_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform (Desert)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform (Desert)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -88,15 +88,15 @@ class 24th_Druid_BDU_Slim_Desert: VES_BDU_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_V_Slim_Desert";
+			uniformClass="24th_Druid_BDU_V_Slim_Desert";
 		};
 	};
 class 24th_Druid_BDU_R_Slim_Desert: VES_BDU_R_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Rolled (Desert)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Rolled (Desert)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -105,15 +105,15 @@ class 24th_Druid_BDU_R_Slim_Desert: VES_BDU_R_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_R_V_Slim_Desert";
+			uniformClass="24th_Druid_BDU_R_V_Slim_Desert";
 		};
 	};
 class 24th_Druid_BDU_SS_Slim_Desert: VES_BDU_SS_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Short Sleeve (Desert)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Short Sleeve (Desert)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -122,7 +122,7 @@ class 24th_Druid_BDU_SS_Slim_Desert: VES_BDU_SS_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_SS_V_Slim_Desert";
+			uniformClass="24th_Druid_BDU_SS_V_Slim_Desert";
 		};
 	};
 // Snow Uniform
@@ -130,8 +130,8 @@ class 24th_Druid_BDU_Slim_Snow: VES_BDU_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform (Snow)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform (Snow)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -140,15 +140,15 @@ class 24th_Druid_BDU_Slim_Snow: VES_BDU_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_V_Slim_Snow";
+			uniformClass="24th_Druid_BDU_V_Slim_Snow";
 		};
 	};
 class 24th_Druid_BDU_R_Slim_Snow: VES_BDU_R_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Rolled (Snow)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Rolled (Snow)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -157,15 +157,15 @@ class 24th_Druid_BDU_R_Slim_Snow: VES_BDU_R_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_R_V_Slim_Snow";
+			uniformClass="24th_Druid_BDU_R_V_Slim_Snow";
 		};
 	};
 class 24th_Druid_BDU_SS_Slim_Snow: VES_BDU_SS_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Short Sleeve (Snow)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Short Sleeve (Snow)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -174,7 +174,7 @@ class 24th_Druid_BDU_SS_Slim_Snow: VES_BDU_SS_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_SS_V_Slim_Snow";
+			uniformClass="24th_Druid_BDU_SS_V_Slim_Snow";
 		};
 	};
 // Woodland Uniform
@@ -182,8 +182,8 @@ class 24th_Druid_BDU_Slim_Woodland: VES_BDU_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform (Woodland)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform (Woodland)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -192,15 +192,15 @@ class 24th_Druid_BDU_Slim_Woodland: VES_BDU_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_V_Slim_Woodland";
+			uniformClass="24th_Druid_BDU_V_Slim_Woodland";
 		};
 	};
 class 24th_Druid_BDU_R_Slim_Woodland: VES_BDU_R_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Rolled (Woodland)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Rolled (Woodland)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -209,15 +209,15 @@ class 24th_Druid_BDU_R_Slim_Woodland: VES_BDU_R_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_R_V_Slim_Woodland";
+			uniformClass="24th_Druid_BDU_R_V_Slim_Woodland";
 		};
 	};
 class 24th_Druid_BDU_SS_Slim_Woodland: VES_BDU_SS_Evolved_Slim
     {
         dlc="24th";
 		scope=2;
-		author="Ithias";
-		displayName="[24th] Combat Uniform Short Sleeve (Woodland)";
+		author="Veta";
+		displayName="[24th RB] Combat Uniform Short Sleeve (Woodland)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
 		class ItemInfo: UniformItem
@@ -226,7 +226,7 @@ class 24th_Druid_BDU_SS_Slim_Woodland: VES_BDU_SS_Evolved_Slim
 			mass=40;
 			uniformType = "Neopren";
 			uniformModel="";
-			uniformClass="24th_Athena_BDU_SS_V_Slim_Woodland";
+			uniformClass="24th_Druid_BDU_SS_V_Slim_Woodland";
 		};
 	};
 };
@@ -243,7 +243,7 @@ class VES_BDU_SS_V_Evolved_Slim;
 class 24th_Druid_BDU_V_Slim: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_Slim";
+        uniformclass="24th_Druid_BDU_Slim";
 		hiddenSelectionsTextures[]=
 		{
 			"V_FZ_Armor\Data\Uniforms\V_BDU_Evolved_CO",
@@ -253,7 +253,7 @@ class 24th_Druid_BDU_V_Slim: VES_BDU_V_Evolved_Slim
 class 24th_Druid_BDU_R_V_Slim: VES_BDU_R_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_R_Slim";
+        uniformclass="24th_Druid_BDU_R_Slim";
 		hiddenSelectionsTextures[] = 
         {
             "V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO",
@@ -263,7 +263,7 @@ class 24th_Druid_BDU_R_V_Slim: VES_BDU_R_V_Evolved_Slim
 class 24th_Druid_BDU_SS_V_Slim: VES_BDU_SS_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_SS_Slim";
+        uniformclass="24th_Druid_BDU_SS_Slim";
 		hiddenSelectionsTextures[] = 
         {
             "V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO",
@@ -274,7 +274,7 @@ class 24th_Druid_BDU_SS_V_Slim: VES_BDU_SS_V_Evolved_Slim
 class 24th_Druid_BDU_V_Slim_Desert: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_Slim_Desert";
+        uniformclass="24th_Druid_BDU_Slim_Desert";
 		hiddenSelectionsTextures[]=
 		{
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-DES2.paa",
@@ -284,7 +284,7 @@ class 24th_Druid_BDU_V_Slim_Desert: VES_BDU_V_Evolved_Slim
 class 24th_Druid_BDU_R_V_Slim_Desert: VES_BDU_R_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_R_Slim_Desert";
+        uniformclass="24th_Druid_BDU_R_Slim_Desert";
 		hiddenSelectionsTextures[] = 
         {
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-DES2.paa",
@@ -294,7 +294,7 @@ class 24th_Druid_BDU_R_V_Slim_Desert: VES_BDU_R_V_Evolved_Slim
 class 24th_Druid_BDU_SS_V_Slim_Desert: VES_BDU_SS_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_SS_Slim_Desert";
+        uniformclass="24th_Druid_BDU_SS_Slim_Desert";
 		hiddenSelectionsTextures[] = 
         {
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-DES2.paa",
@@ -305,7 +305,7 @@ class 24th_Druid_BDU_SS_V_Slim_Desert: VES_BDU_SS_V_Evolved_Slim
 class 24th_Druid_BDU_V_Slim_Snow: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_Slim_Snow";
+        uniformclass="24th_Druid_BDU_Slim_Snow";
 		hiddenSelectionsTextures[]=
 		{
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-SNO.paa",
@@ -315,7 +315,7 @@ class 24th_Druid_BDU_V_Slim_Snow: VES_BDU_V_Evolved_Slim
 class 24th_Druid_BDU_R_V_Slim_Snow: VES_BDU_R_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_R_Slim_Snow";
+        uniformclass="24th_Druid_BDU_R_Slim_Snow";
 		hiddenSelectionsTextures[] = 
         {
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-SNO.paa",
@@ -325,7 +325,7 @@ class 24th_Druid_BDU_R_V_Slim_Snow: VES_BDU_R_V_Evolved_Slim
 class 24th_Druid_BDU_SS_V_Slim_Snow: VES_BDU_SS_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_SS_Slim_Snow";
+        uniformclass="24th_Druid_BDU_SS_Slim_Snow";
 		hiddenSelectionsTextures[] = 
         {
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-SNO.paa",
@@ -336,31 +336,31 @@ class 24th_Druid_BDU_SS_V_Slim_Snow: VES_BDU_SS_V_Evolved_Slim
 class 24th_Druid_BDU_V_Slim_Woodland: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_Slim_Woodland";
+        uniformclass="24th_Druid_BDU_Slim_Woodland";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Uniforms\Tex\24th_Athena_Uniform_Woodland.paa",
-			"24th_AB_AUX\Equipment\Uniforms\Tex\24th_Athena_Uniform_Woodland.paa",
+			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
+			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
 		};
 	};
 class 24th_Druid_BDU_R_V_Slim_Woodland: VES_BDU_R_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_R_Slim_Woodland";
+        uniformclass="24th_Druid_BDU_R_Slim_Woodland";
 		hiddenSelectionsTextures[] = 
         {
-			"24th_AB_AUX\Equipment\Uniforms\Tex\24th_Athena_Uniform_Woodland.paa",
-			"24th_AB_AUX\Equipment\Uniforms\Tex\24th_Athena_Uniform_Woodland.paa",
+			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
+			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
         };
 	};
 class 24th_Druid_BDU_SS_V_Slim_Woodland: VES_BDU_SS_V_Evolved_Slim
 	{
 		scope=1;
-        uniformclass="24th_Athena_BDU_SS_Slim_Woodland";
+        uniformclass="24th_Druid_BDU_SS_Slim_Woodland";
 		hiddenSelectionsTextures[] = 
         {
-			"24th_AB_AUX\Equipment\Uniforms\Tex\24th_Athena_Uniform_Woodland.paa",
-			"24th_AB_AUX\Equipment\Uniforms\Tex\24th_Athena_Uniform_Woodland.paa",
+			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
+			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
         };
 	};
 };
