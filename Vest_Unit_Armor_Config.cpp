@@ -30,14 +30,14 @@ class 24th_Druid_Armor_Reservist_Desert: 24th_Armor_Reservist
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Recruit / Desert)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Reservist / Desert)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Desert",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Recruit_Desert",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -48,14 +48,14 @@ class 24th_Druid_Armor_Ranger_Desert: 24th_Armor_Ranger
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Rifleman / Desert)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Ranger / Desert)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Desert",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Desert",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -66,14 +66,14 @@ class 24th_Druid_Armor_SL_Desert: 24th_Armor_SL
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Squad Leader / Desert)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Squad Leader / Desert)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Desert",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_NCO_Desert",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Desert",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -86,14 +86,14 @@ class 24th_Druid_Armor_Reservist_Snow: 24th_Armor_Reservist
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Recruit / Snow)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Reservist / Snow)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Snow",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Recruit_Snow",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Snow",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -104,14 +104,14 @@ class 24th_Druid_Armor_Ranger_Snow: 24th_Armor_Ranger
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Rifleman / Snow)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Ranger / Snow)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Snow",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Snow",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Snow",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -122,14 +122,14 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Squad Leader / Snow)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Squad Leader / Snow)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Snow",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_NCO_Snow",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Snow",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Snow",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -142,14 +142,14 @@ class 24th_Druid_Armor_Reservist_Urban: 24th_Armor_Reservist
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Recruit / Urban)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Reservist / Urban)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Recruit_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -160,14 +160,14 @@ class 24th_Druid_Armor_Ranger_Urban: 24th_Armor_Ranger
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Rifleman / Urban)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Ranger / Urban)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -178,14 +178,14 @@ class 24th_Druid_Armor_SL_Urban: 24th_Armor_SL
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Squad Leader / Urban)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Squad Leader / Urban)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_NCO_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -198,14 +198,14 @@ class 24th_Druid_Armor_Reservist_Woodland: 24th_Armor_Reservist
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Recruit / Woodland)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Reservist / Woodland)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Woodland",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Recruit_Woodland",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Woodland",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -216,14 +216,14 @@ class 24th_Druid_Armor_Ranger_Woodland: 24th_Armor_Ranger
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Rifleman / Woodland)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Ranger / Woodland)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Woodland",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Woodland",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Woodland",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -235,14 +235,14 @@ class 24th_Druid_Armor_SL_Woodland: 24th_Armor_SL
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Squad Leader / Woodland)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Squad Leader / Woodland)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Woodland",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_NCO_Woodland",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Woodland",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Woodland",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -255,14 +255,14 @@ class 24th_Druid_Armor_Reservist_Heavy: 24th_Armor_Reservist_Heavy
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Recruit / Heavy)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Reservist / Heavy)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Recruit_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -273,14 +273,14 @@ class 24th_Druid_Armor_Ranger_Heavy: 24th_Armor_Ranger_Heavy
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Rifleman / Heavy)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Ranger / Heavy)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
@@ -291,14 +291,14 @@ class 24th_Druid_Armor_SL_Heavy: 24th_Armor_SL_Heavy
 		scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th AUX";
-		author = "Ithias";
-		displayName="[24th] Athena Armor (Squad Leader / Heavy)";
+		dlc = "24th RB AUX";
+		author = "Veta";
+		displayName="[24th RB] Druid Armor (Squad Leader / Heavy)";
 		hiddenSelectionsTextures[]=
 		{
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Vest_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Armor_NCO_Urban",
-			"24th_AB_AUX\Equipment\Vests\Tex\24th_Athena_Leg_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Urban",
+			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
