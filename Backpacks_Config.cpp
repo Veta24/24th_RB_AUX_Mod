@@ -29,6 +29,7 @@ class CfgVehicles
 //Base Items
 
 //Woodland Rucksacks
+/*
 	class 24th_Druid_Rucksack_Basic_Woodland: OPTRE_UNSC_Rucksack
 	{
 		dlc="24th RB Aux";
@@ -117,7 +118,7 @@ class CfgVehicles
         tf_dialogUpdate="[""%1""] call TFAR_fnc_updateLRDialogToChannel;";
         tf_hasLRradio=1;
 	};
-
+*/
 //Urban Rucksacks
 	class 24th_Druid_Rucksack_Basic_Urban: OPTRE_UNSC_Rucksack
 	{
@@ -209,6 +210,7 @@ class CfgVehicles
 	};
 
 //Desert Rucksacks
+/*
 	class 24th_Druid_Rucksack_Basic_Desert: OPTRE_UNSC_Rucksack
 	{
 		dlc="24th RB Aux";
@@ -297,9 +299,9 @@ class CfgVehicles
         tf_dialogUpdate="[""%1""] call TFAR_fnc_updateLRDialogToChannel;";
         tf_hasLRradio=1;
 	};
-
+*/
 //Snow Rucksack
-
+/*
 	class 24th_Druid_Rucksack_Basic_Snow: OPTRE_UNSC_Rucksack
 	{
 		dlc="24th RB Aux";
@@ -388,10 +390,9 @@ class CfgVehicles
         tf_dialogUpdate="[""%1""] call TFAR_fnc_updateLRDialogToChannel;";
         tf_hasLRradio=1;
 	};
-
+*/
 //NCO LR
-
-
+/*
 	class 24th_Druid_Rucksack_NCO_LR: OPTRE_ANPRC_515
 	{
 		dlc="24th RB Aux";
@@ -517,3 +518,5 @@ class CfgVehicles
 		tf_hasLRradio=1;
 		maximumLoad=350;
 	};
+*/
+};
