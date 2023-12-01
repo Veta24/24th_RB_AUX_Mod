@@ -1,13 +1,11 @@
 class CfgPatches {
 	class Druid_Armor_Main {
-		units[] = 
-        {
+		units[] = {
 			""
-        };
-		weapons[] = 
-        {
-            ""
-        };
+		};
+		weapons[] = {
+			""
+	        };
 		requiredVersion = 0.100000;
 		requiredAddons[] = {};
 	};
@@ -15,7 +13,7 @@ class CfgPatches {
 //#include "xtdGear.hpp"
 class cfgWeapons 
 {
-    	class 24th_Armor_Reservist;
+	class 24th_Armor_Reservist;
 	class 24th_Armor_Ranger;
 	class 24th_Armor_SL;
 	class 24th_Armor_Reservist_Heavy;
@@ -25,57 +23,53 @@ class cfgWeapons
 
 //Desert 
 
-class 24th_Druid_Armor_Reservist_Desert: 24th_Armor_Reservist
-	{
-		scope = 2;
+class 24th_Druid_Armor_Reservist_Desert: 24th_Armor_Reservist {
+	scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th RB AUX";
-		author = "Veta";
-		displayName="[24th RB] Druid Armor (Reservist / Desert)";
-		hiddenSelectionsTextures[]=
-		{
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Desert",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
-			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
-			"optre_unsc_units\army\data\odst_armor_co.paa"
+	dlc = "24th RB AUX";
+	author = "Veta";
+	displayName="[24th RB] Druid Armor (Reservist / Desert)";
+	hiddenSelectionsTextures[]= {
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Desert",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
 	
 class 24th_Druid_Armor_Ranger_Desert: 24th_Armor_Ranger
 	{
-		scope = 2;
+	scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th RB AUX";
-		author = "Veta";
-		displayName="[24th RB] Druid Armor (Ranger / Desert)";
-		hiddenSelectionsTextures[]=
-		{
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Desert",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
-			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
-			"optre_unsc_units\army\data\odst_armor_co.paa"
+	dlc = "24th RB AUX";
+	author = "Veta";
+	displayName="[24th RB] Druid Armor (Ranger / Desert)";
+	hiddenSelectionsTextures[]= {
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Desert",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
 
 class 24th_Druid_Armor_SL_Desert: 24th_Armor_SL
 	{
-		scope = 2;
+	scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th RB AUX";
-		author = "Veta";
-		displayName="[24th RB] Druid Armor (Squad Leader / Desert)";
-		hiddenSelectionsTextures[]=
-		{
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Desert",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
-			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
-			"optre_unsc_units\army\data\odst_armor_co.paa"
+	dlc = "24th RB AUX";
+	author = "Veta";
+	displayName="[24th RB] Druid Armor (Squad Leader / Desert)";
+	hiddenSelectionsTextures[]= {
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Desert",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Desert",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Desert",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
 
@@ -83,19 +77,18 @@ class 24th_Druid_Armor_SL_Desert: 24th_Armor_SL
 
 class 24th_Druid_Armor_Reservist_Snow: 24th_Armor_Reservist
 	{
-		scope = 2;
+	scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-		dlc = "24th RB AUX";
-		author = "Veta";
-		displayName="[24th RB] Druid Armor (Reservist / Snow)";
-		hiddenSelectionsTextures[]=
-		{
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Snow",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Snow",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Snow",
-			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
-			"optre_unsc_units\army\data\odst_armor_co.paa"
+	dlc = "24th RB AUX";
+	author = "Veta";
+	displayName="[24th RB] Druid Armor (Reservist / Snow)";
+	hiddenSelectionsTextures[]= {
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Snow",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Snow",
+		"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Snow",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
 	
