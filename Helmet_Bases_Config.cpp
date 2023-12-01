@@ -1,5 +1,5 @@
 class CfgPatches {
-	class Athena_Helmets {
+	class Druid_Helmets {
 		units[] = 
         {
 			""
