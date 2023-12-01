@@ -24,8 +24,8 @@ class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
     {
         scope = 2;
         scopeArsenal = 2;
-        displayName = "[24th] Athena Helmet (Desert)";
-        author = "Ithias";
+        displayName = "[24th RB] Druid Helmet (Desert)";
+        author = "Veta";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -33,8 +33,8 @@ class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Desert.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Desert.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -45,8 +45,8 @@ class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Desert.paa",
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Desert.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
 			};
 		};
     };
@@ -54,11 +54,11 @@ class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
     {
         scope = 1;
         scopeArsenal = 1;
-        displayName = "[24th] Athena Helmet (Desert)";
+        displayName = "[24th RB] Druid Helmet (Desert)";
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Desert.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Desert.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -69,7 +69,7 @@ class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Desert.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Desert.paa",
 				"optre_unsc_units\army\data\helmet_visor_ca.paa"
 			};
 		};
@@ -79,8 +79,8 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
     {
         scope = 2;
         scopeArsenal = 2;
-        displayName = "[24th] Athena Helmet (Snow)";
-        author = "Ithias";
+        displayName = "[24th RB] Druid Helmet (Snow)";
+        author = "Veta";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -88,8 +88,8 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Snow.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Snow.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -100,8 +100,8 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Snow.paa",
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Snow.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
 			};
 		};
     };
@@ -109,11 +109,11 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
     {
         scope = 1;
         scopeArsenal = 1;
-        displayName = "[24th] Athena Helmet (Snow)";
+        displayName = "[24th RB] Druid Helmet (Snow)";
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Snow.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Snow.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -124,7 +124,7 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Snow.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Snow.paa",
 				"optre_unsc_units\army\data\helmet_visor_ca.paa"
 			};
 		};
@@ -134,8 +134,8 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
     {
         scope = 2;
         scopeArsenal = 2;
-        displayName = "[24th] Athena Helmet (Urban)";
-        author = "Ithias";
+        displayName = "[24th RB] Druid Helmet (Urban)";
+        author = "Veta";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -143,8 +143,8 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Urban.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -155,8 +155,8 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Urban.paa",
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
 			};
 		};
     };
@@ -164,11 +164,11 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
     {
         scope = 1;
         scopeArsenal = 1;
-        displayName = "[24th] Athena Helmet (Urban)";
+        displayName = "[24th RB] Druid Helmet (Urban)";
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Urban.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -179,7 +179,7 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Urban.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
 				"optre_unsc_units\army\data\helmet_visor_ca.paa"
 			};
 		};
@@ -189,8 +189,8 @@ class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
     {
         scope = 2;
         scopeArsenal = 2;
-        displayName = "[24th] Athena Helmet (Woodland)";
-        author = "Ithias";
+        displayName = "[24th RB] Druid Helmet (Woodland)";
+        author = "Veta";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -198,8 +198,8 @@ class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Woodland.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Woodland.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -210,8 +210,8 @@ class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Woodland.paa",
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Woodland.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
 			};
 		};
     };
@@ -219,11 +219,11 @@ class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
     {
         scope = 1;
         scopeArsenal = 1;
-        displayName = "[24th] Athena Helmet (Woodland)";
+        displayName = "[24th RB] Druid Helmet (Woodland)";
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Woodland.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Woodland.paa",
+            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -234,7 +234,7 @@ class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Woodland.paa",
+				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Woodland.paa",
 				"optre_unsc_units\army\data\helmet_visor_ca.paa"
 			};
 		};
