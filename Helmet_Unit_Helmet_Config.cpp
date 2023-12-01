@@ -20,6 +20,7 @@ class cfgWeapons
 	class 24th_Helmet_Base_dp;
 
 //Unit Helmets
+/*
 class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
     {
         scope = 2;
@@ -74,7 +75,8 @@ class 24th_Druid_Helmet_Desert : 24th_Helmet_Base
 			};
 		};
     };
-	
+*/
+/*	
 class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
     {
         scope = 2;
@@ -129,6 +131,7 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
 			};
 		};
     };
+*/
 
 class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
     {
@@ -184,7 +187,7 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			};
 		};
     };
-
+/*
 class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
     {
         scope = 2;
@@ -239,4 +242,5 @@ class 24th_Druid_Helmet_Woodland : 24th_Helmet_Base
 			};
 		};
     };
+*/
 };
