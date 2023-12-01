@@ -11,8 +11,7 @@ class CfgPatches {
 	};
 };
 //#include "xtdGear.hpp"
-class cfgWeapons 
-{
+class cfgWeapons {
 	class 24th_Armor_Reservist;
 	class 24th_Armor_Ranger;
 	class 24th_Armor_SL;
@@ -130,16 +129,14 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 */
 //Urban 
 
-class 24th_Druid_Armor_Reservist_Urban: 24th_Armor_Reservist
-	{
+	class 24th_Druid_Armor_Reservist_Urban: 24th_Armor_Reservist {
 		scope = 2;
-        scopeCurator = 2;
-        scopeArsenal = 2;
+	        scopeCurator = 2;
+        	scopeArsenal = 2;
 		dlc = "24th RB AUX";
 		author = "Veta";
 		displayName="[24th RB] Druid Armor (Reservist / Urban)";
-		hiddenSelectionsTextures[]=
-		{
+		hiddenSelectionsTextures[]= {
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Reservist_Urban",
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
@@ -147,17 +144,15 @@ class 24th_Druid_Armor_Reservist_Urban: 24th_Armor_Reservist
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
-	
-class 24th_Druid_Armor_Ranger_Urban: 24th_Armor_Ranger
-	{
+
+	class 24th_Druid_Armor_Ranger_Urban: 24th_Armor_Ranger {
 		scope = 2;
-        scopeCurator = 2;
-        scopeArsenal = 2;
+	        scopeCurator = 2;
+        	scopeArsenal = 2;
 		dlc = "24th RB AUX";
 		author = "Veta";
 		displayName="[24th RB] Druid Armor (Ranger / Urban)";
-		hiddenSelectionsTextures[]=
-		{
+		hiddenSelectionsTextures[]= {
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Urban",
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
@@ -166,16 +161,14 @@ class 24th_Druid_Armor_Ranger_Urban: 24th_Armor_Ranger
 		};
 	};
 
-class 24th_Druid_Armor_SL_Urban: 24th_Armor_SL
-	{
+	class 24th_Druid_Armor_SL_Urban: 24th_Armor_SL {
 		scope = 2;
-        scopeCurator = 2;
-        scopeArsenal = 2;
+	        scopeCurator = 2;
+        	scopeArsenal = 2;
 		dlc = "24th RB AUX";
 		author = "Veta";
 		displayName="[24th RB] Druid Armor (Squad Leader / Urban)";
-		hiddenSelectionsTextures[]=
-		{
+		hiddenSelectionsTextures[]= {
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_NCO_Urban",
 			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
