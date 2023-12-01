@@ -128,7 +128,7 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 	};
 */
 //Urban 
-
+/*
 	class 24th_Druid_Armor_Reservist_Urban: 24th_Armor_Reservist {
 		scope = 2;
 	        scopeCurator = 2;
@@ -144,7 +144,7 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
-
+*/
 	class 24th_Druid_Armor_Ranger_Urban: 24th_Armor_Ranger {
 		scope = 2;
 	        scopeCurator = 2;
@@ -160,7 +160,7 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
-
+/*
 	class 24th_Druid_Armor_SL_Urban: 24th_Armor_SL {
 		scope = 2;
 	        scopeCurator = 2;
@@ -176,7 +176,7 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
 	};
-
+*/
 //Woodland 
 /*
 class 24th_Druid_Armor_Reservist_Woodland: 24th_Armor_Reservist
