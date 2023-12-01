@@ -1,37 +1,32 @@
 class CfgPatches {
 	class Druid_Uniforms {
-		units[] = 
-        {
-            "24th_Druid_BDU_V_Slim"
-        };
-		weapons[] = 
-        {
-            "24th_Druid_BDU_Slim"
-        };
+		units[] = {
+        		"24th_Druid_BDU_V_Slim"
+	        };
+		weapons[] = {
+	        	"24th_Druid_BDU_Slim"
+        	};
 		requiredVersion = 0.100000;
 		requiredAddons[] = {};
 	};
 };
-#include "xtdGear.hpp"
-class cfgWeapons 
-{
-  class ItemInfo;
-  class UniformItem;
+//#include "xtdGear.hpp"
+class cfgWeapons {
+	class ItemInfo;
+	class UniformItem;
 	class VES_BDU_Evolved_Slim;
 	class VES_BDU_R_Evolved_Slim;
 	class VES_BDU_SS_Evolved_Slim;
 
 // Urban Uniform
-class 24th_Druid_BDU_Slim: VES_BDU_Evolved_Slim
-    {
-        dlc="24th";
+	class 24th_Druid_BDU_Slim: VES_BDU_Evolved_Slim {
+	        dlc="24th";
 		scope=2;
 		author="Veta";
 		displayName="[24th RB] Combat Uniform (Urban)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
-		class ItemInfo: UniformItem
-		{
+		class ItemInfo: UniformItem {
 			containerClass="Supply120";
 			mass=40;
 			uniformType = "Neopren";
@@ -39,16 +34,15 @@ class 24th_Druid_BDU_Slim: VES_BDU_Evolved_Slim
 			uniformClass="24th_Druid_BDU_V_Slim";
 		};
 	};
-class 24th_Druid_BDU_R_Slim: VES_BDU_R_Evolved_Slim
-    {
-        dlc="24th";
+
+	class 24th_Druid_BDU_R_Slim: VES_BDU_R_Evolved_Slim {
+	        dlc="24th";
 		scope=2;
 		author="Veta";
 		displayName="[24th RB] Combat Uniform Rolled (Urban)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
-		class ItemInfo: UniformItem
-		{
+		class ItemInfo: UniformItem {
 			containerClass="Supply120";
 			mass=40;
 			uniformType = "Neopren";
@@ -56,16 +50,15 @@ class 24th_Druid_BDU_R_Slim: VES_BDU_R_Evolved_Slim
 			uniformClass="24th_Druid_BDU_R_V_Slim";
 		};
 	};
-class 24th_Druid_BDU_SS_Slim: VES_BDU_SS_Evolved_Slim
-    {
-        dlc="24th";
+
+	class 24th_Druid_BDU_SS_Slim: VES_BDU_SS_Evolved_Slim {
+	        dlc="24th";
 		scope=2;
 		author="Veta";
 		displayName="[24th RB] Combat Uniform Short Sleeve (Urban)";
 		picture="\optre_unsc_units\army\icons\army_uniform";
 		CBRN_protection=1;
-		class ItemInfo: UniformItem
-		{
+		class ItemInfo: UniformItem {
 			containerClass="Supply120";
 			mass=40;
 			uniformType = "Neopren";
@@ -73,7 +66,9 @@ class 24th_Druid_BDU_SS_Slim: VES_BDU_SS_Evolved_Slim
 			uniformClass="24th_Druid_BDU_SS_V_Slim";
 		};
 	};
+
 // Desert Uniform
+/*
 class 24th_Druid_BDU_Slim_Desert: VES_BDU_Evolved_Slim
     {
         dlc="24th";
@@ -125,7 +120,9 @@ class 24th_Druid_BDU_SS_Slim_Desert: VES_BDU_SS_Evolved_Slim
 			uniformClass="24th_Druid_BDU_SS_V_Slim_Desert";
 		};
 	};
+*/
 // Snow Uniform
+/*
 class 24th_Druid_BDU_Slim_Snow: VES_BDU_Evolved_Slim
     {
         dlc="24th";
@@ -177,7 +174,9 @@ class 24th_Druid_BDU_SS_Slim_Snow: VES_BDU_SS_Evolved_Slim
 			uniformClass="24th_Druid_BDU_SS_V_Slim_Snow";
 		};
 	};
+*/
 // Woodland Uniform
+/*
 class 24th_Druid_BDU_Slim_Woodland: VES_BDU_Evolved_Slim
     {
         dlc="24th";
@@ -229,48 +228,46 @@ class 24th_Druid_BDU_SS_Slim_Woodland: VES_BDU_SS_Evolved_Slim
 			uniformClass="24th_Druid_BDU_SS_V_Slim_Woodland";
 		};
 	};
+*/
 };
 
 
 
-class CfgVehicles
-{
-class VES_BDU_V_Evolved_Slim;
-class VES_BDU_R_V_Evolved_Slim;
-class VES_BDU_SS_V_Evolved_Slim;
+class CfgVehicles {
+	class VES_BDU_V_Evolved_Slim;
+	class VES_BDU_R_V_Evolved_Slim;
+	class VES_BDU_SS_V_Evolved_Slim;
 
 //Urban Uniform
-class 24th_Druid_BDU_V_Slim: VES_BDU_V_Evolved_Slim
-	{
+	class 24th_Druid_BDU_V_Slim: VES_BDU_V_Evolved_Slim {
 		scope=1;
-        uniformclass="24th_Druid_BDU_Slim";
-		hiddenSelectionsTextures[]=
-		{
+	        uniformclass="24th_Druid_BDU_Slim";
+		hiddenSelectionsTextures[]= {
 			"V_FZ_Armor\Data\Uniforms\V_BDU_Evolved_CO",
 			"V_FZ_Armor\Data\Uniforms\V_BDU_Evolved_CO"
 		};
 	};
-class 24th_Druid_BDU_R_V_Slim: VES_BDU_R_V_Evolved_Slim
-	{
+	
+	class 24th_Druid_BDU_R_V_Slim: VES_BDU_R_V_Evolved_Slim {
 		scope=1;
-        uniformclass="24th_Druid_BDU_R_Slim";
-		hiddenSelectionsTextures[] = 
-        {
-            "V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO",
-            "V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO"
-        };
+	        uniformclass="24th_Druid_BDU_R_Slim";
+		hiddenSelectionsTextures[] = {
+ 	        	"V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO",
+            		"V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO"
+        	};
 	};
-class 24th_Druid_BDU_SS_V_Slim: VES_BDU_SS_V_Evolved_Slim
-	{
+	
+	class 24th_Druid_BDU_SS_V_Slim: VES_BDU_SS_V_Evolved_Slim {
 		scope=1;
-        uniformclass="24th_Druid_BDU_SS_Slim";
-		hiddenSelectionsTextures[] = 
-        {
-            "V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO",
-            "V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO"
-        };
+	        uniformclass="24th_Druid_BDU_SS_Slim";
+		hiddenSelectionsTextures[] = {
+            		"V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO",
+            		"V_FZ_Armor\Data\Uniforms\V_BDU_R_Evolved_CO"
+        	};
 	};
+
 //Desert Uniform
+/*
 class 24th_Druid_BDU_V_Slim_Desert: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
@@ -301,7 +298,9 @@ class 24th_Druid_BDU_SS_V_Slim_Desert: VES_BDU_SS_V_Evolved_Slim
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-DES2.paa"
         };
 	};
+*/
 //Snow Uniform
+/*
 class 24th_Druid_BDU_V_Slim_Snow: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
@@ -332,7 +331,9 @@ class 24th_Druid_BDU_SS_V_Slim_Snow: VES_BDU_SS_V_Evolved_Slim
 			"TCF_EQUIPMENT\Uniforms\BDU\data\UNSC-A-SNO.paa"
         };
 	};
+*/
 //Woodland Uniform
+/*
 class 24th_Druid_BDU_V_Slim_Woodland: VES_BDU_V_Evolved_Slim
 	{
 		scope=1;
@@ -363,4 +364,5 @@ class 24th_Druid_BDU_SS_V_Slim_Woodland: VES_BDU_SS_V_Evolved_Slim
 			"24th_RB_AUX\Equipment\Uniforms\Tex\24th_Druid_Uniform_Woodland.paa",
         };
 	};
+*/
 };
