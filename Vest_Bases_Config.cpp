@@ -28,7 +28,7 @@ class 24th_Armor_Reservist: OPTRE_UNSC_M52A_Armor_Base
         scope=1
 		author="Article 2 Studios";
 		picture="\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName="M52A Body Armor (Heavy) [Woodland]";
+		displayName="M52A Body Armor (Medium) [Woodland]";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -221,7 +221,7 @@ class 24th_Armor_Ranger: 24th_Armor_Reservist
 	{
 		author="Article 2 Studios";
 		picture="\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName="M52A Body Armor (Heavy) [Woodland]";
+		displayName="M52A Body Armor (Medium) [Woodland]";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelections[]=
@@ -289,7 +289,7 @@ class 24th_Armor_SL: 24th_Armor_Reservist
 	{
 		author="Article 2 Studios";
 		picture="\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName="M52A Body Armor (Heavy) [Woodland]";
+		displayName="M52A Body Armor (Medium) [Woodland]";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelections[]=
@@ -362,7 +362,7 @@ class 24th_Armor_Reservist_Heavy: 24th_Armor_Reservist
         scope=1
 		author="Article 2 Studios";
 		picture="\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName="M52A Body Armor (Heavy) [Woodland]";
+		displayName="M52A Body Armor (Medium) [Woodland]";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -555,7 +555,7 @@ class 24th_Armor_Ranger_Heavy: 24th_Armor_Reservist_Heavy
 	{
 		author="Article 2 Studios";
 		picture="\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName="M52A Body Armor (Heavy) [Woodland]";
+		displayName="M52A Body Armor (Medium) [Woodland]";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelections[]=
@@ -623,7 +623,7 @@ class 24th_Armor_SL_Heavy: 24th_Armor_Reservist_Heavy
 	{
 		author="Article 2 Studios";
 		picture="\OPTRE_UNSC_Units\Army\icons\Army_vest_wdl.paa";
-		displayName="M52A Body Armor (Heavy) [Woodland]";
+		displayName="M52A Body Armor (Medium) [Woodland]";
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelections[]=
