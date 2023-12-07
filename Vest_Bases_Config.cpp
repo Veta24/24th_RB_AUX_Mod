@@ -163,8 +163,8 @@ class 24th_Armor_Reservist: OPTRE_UNSC_M52A_Armor_Base
 				"A_KneesMarLeft",
 				"A_KneesMarRight",
 				"A_ODST",
-				//"A_ShinArmorLeft",
-				//"A_ShinArmorRight",
+				"A_ShinArmorLeft",
+				"A_ShinArmorRight",
 				"A_TacPad",
 				//"A_ThighArmorLeft",
 				//"A_ThighArmorRight",
@@ -240,8 +240,8 @@ class 24th_Armor_Ranger: 24th_Armor_Reservist
 				"A_KneesMarLeft",
 				"A_KneesMarRight",
 				"A_ODST",
-				//"A_ShinArmorLeft",
-				//"A_ShinArmorRight",
+				"A_ShinArmorLeft",
+				"A_ShinArmorRight",
 				"A_TacPad",
 				//"A_ThighArmorLeft",
 				//"A_ThighArmorRight",
@@ -308,8 +308,8 @@ class 24th_Armor_SL: 24th_Armor_Reservist
 				"A_KneesMarLeft", //soft knees
 				"A_KneesMarRight",
 				"A_ODST", 
-				//"A_ShinArmorLeft", //Shin Plates
-				//"A_ShinArmorRight",
+				"A_ShinArmorLeft", //Shin Plates
+				"A_ShinArmorRight",
 				"A_TacPad", //Small screen on left wrist
 				//"A_ThighArmorLeft", //Thigh Plate
 				//"A_ThighArmorRight",
@@ -497,8 +497,8 @@ class 24th_Armor_Reservist_Heavy: 24th_Armor_Reservist
 				"A_KneesMarLeft",
 				"A_KneesMarRight",
 				//"A_ODST",
-				//"A_ShinArmorLeft",
-				//"A_ShinArmorRight",
+				"A_ShinArmorLeft",
+				"A_ShinArmorRight",
 				//"A_TacPad",
 				//"A_ThighArmorLeft",
 				//"A_ThighArmorRight",
@@ -574,8 +574,8 @@ class 24th_Armor_Ranger_Heavy: 24th_Armor_Reservist_Heavy
 				"A_KneesMarLeft",
 				"A_KneesMarRight",
 				//"A_ODST",
-				//"A_ShinArmorLeft",
-				//"A_ShinArmorRight",
+				"A_ShinArmorLeft",
+				"A_ShinArmorRight",
 				//"A_TacPad",
 				//"A_ThighArmorLeft",
 				//"A_ThighArmorRight",
@@ -642,8 +642,8 @@ class 24th_Armor_SL_Heavy: 24th_Armor_Reservist_Heavy
 				"A_KneesMarLeft", //soft knees
 				"A_KneesMarRight",
 				//"A_ODST", 
-				//"A_ShinArmorLeft", //Shin Plates
-				//"A_ShinArmorRight",
+				"A_ShinArmorLeft", //Shin Plates
+				"A_ShinArmorRight",
 				//"A_TacPad", //Small screen on left wrist
 				//"A_ThighArmorLeft", //Thigh Plate
 				//"A_ThighArmorRight",
