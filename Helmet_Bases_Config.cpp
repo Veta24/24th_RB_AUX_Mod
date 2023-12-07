@@ -19,7 +19,7 @@ class cfgWeapons
 	class OPTRE_UNSC_CH252A_Helmet_Base;
 	class HeadgearItem;
 
-//Base Start                                                                        Mark V/K Helmet
+//Base Start                                                                        Mark V/B5 Helmet
 
 class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 	{
