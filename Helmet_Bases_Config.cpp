@@ -21,11 +21,11 @@ class cfgWeapons
 
 //Base Start                                                                        Mark R/B5 Helmet
 
-class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
+class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 	{
 		author="Idk";
 		displayName="WORK GOD DANGIT";
-		model="\OPTRE_UNSC_Units\Army\aa_helmet.p3d";
+		model="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -33,8 +33,10 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Woodland.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+		"24th_RB_Aux\Helmet\Tex\24th_RB_Urban_Helmet_co.paa",
+		"optre_unsc_units\army\data\recon_visor_co.paa",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\soft_packs_co.paa"
         };
 		optreVarietys[]=
 		{
@@ -46,7 +48,7 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 		class ItemInfo: HeadgearItem
         {
             mass=1;
-            uniformModel="\OPTRE_UNSC_Units\Army\Recon_helmet";
+            uniformModel="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
 			modelSides[]={6};
             class HitpointsProtectionInfo
 			{
@@ -75,7 +77,7 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 	{
 		author="Idk";
 		displayName="WORK GOD DANGIT";
-		model="\OPTRE_UNSC_Units\Army\aa_helmet.p3d";
+		model="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
 		hiddenSelections[]=
 		{
 			"camo",
@@ -83,8 +85,10 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Helmet_Woodland.paa",
-            "24th_AB_AUX\Equipment\Helmets\Tex\24th_Athena_Visor_Silver.paa"
+		"24th_RB_Aux\Helmet\Tex\24th_RB_Urban_Helmet_co.paa",
+		"optre_unsc_units\army\data\recon_visor_co.paa",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\soft_packs_co.paa"
         };
 		optreVarietys[]=
 		{
@@ -96,7 +100,7 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 		class ItemInfo: HeadgearItem
         {
             mass=1;
-            uniformModel="\OPTRE_UNSC_Units\Army\Recon_helmet";
+            uniformModel="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
 			modelSides[]={6};
             class HitpointsProtectionInfo
 			{
