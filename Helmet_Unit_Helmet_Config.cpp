@@ -146,8 +146,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 		};
         hiddenSelectionsTextures[] = 
         {
-            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
-            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
+		"24th_RB_Aux\Helmet\Tex\24th_RB_Urban_Helmet_co.paa",
+		"optre_unsc_units\army\data\recon_visor_co.paa",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\soft_packs_co.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -158,8 +160,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
-				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
+				"24th_RB_Aux\Helmet\Tex\24th_RB_Urban_Helmet_co.paa",
+				"optre_unsc_units\army\data\recon_visor_co.paa",
+				"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+				"optre_unsc_units\army\data\soft_packs_co.paa"
 			};
 		};
     };
@@ -170,8 +174,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
         displayName = "[24th RB] Druid Helmet (Urban)";
         hiddenSelectionsTextures[] = 
         {
-            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
-            "24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Visor_Silver.paa"
+		"24th_RB_Aux\Helmet\Tex\24th_RB_Urban_Helmet_co.paa",
+		"optre_unsc_units\army\data\recon_visor_co.paa",
+		"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+		"optre_unsc_units\army\data\soft_packs_co.paa"
         };
 		class ItemInfo: ItemInfo
 		{
@@ -182,8 +188,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			};
 			hiddenSelectionsTextures[]=
 			{
-				"24th_RB_AUX\Equipment\Helmets\Tex\24th_Druid_Helmet_Urban.paa",
-				"optre_unsc_units\army\data\helmet_visor_ca.paa"
+				"24th_RB_Aux\Helmet\Tex\24th_RB_Urban_Helmet_co.paa",
+				"optre_unsc_units\army\data\recon_visor_co.paa",
+				"optre_unsc_units\army\data\ghillie_woodland_co.paa",
+				"optre_unsc_units\army\data\soft_packs_co.paa"
 			};
 		};
     };
