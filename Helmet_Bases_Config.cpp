@@ -21,7 +21,7 @@ class cfgWeapons
 
 //Base Start                                                                        Mark R/B5 Helmet
 
-class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
+class 24th_RB_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 	{
 		author="Idk";
 		displayName="WORK GOD DANGIT";
@@ -75,7 +75,7 @@ class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 			};
         };
 	};
-	class 24th_Helmet_Base_dp: 24th_Helmet_Base
+	class 24th_RB_Helmet_Base_dp: 24th_RB_Helmet_Base
 	{
 		author="Idk";
 		displayName="WORK GOD DANGIT";
