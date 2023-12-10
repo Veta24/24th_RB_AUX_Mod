@@ -133,7 +133,7 @@ class 24th_Druid_Helmet_Snow : 24th_Helmet_Base
     };
 */
 
-class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
+class 24th_Druid_Helmet_Urban : 24th_RB_Helmet_Base
     {
         scope = 2;
         scopeArsenal = 2;
@@ -173,7 +173,7 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			};
 		};
     };
-    class 24th_Druid_Helmet_Urban_dp : 24th_Helmet_Base_dp
+    class 24th_Druid_Helmet_Urban_dp : 24th_RB_Helmet_Base_dp
     {
         scope = 1;
         scopeArsenal = 1;
