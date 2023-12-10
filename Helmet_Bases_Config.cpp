@@ -52,7 +52,6 @@ class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
         {
             mass=1;
             uniformModel="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
-			modelSides[]={6};
             class HitpointsProtectionInfo
 			{
 				class Face
@@ -107,7 +106,6 @@ class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
         {
             mass=1;
             uniformModel="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
-			modelSides[]={6};
             class HitpointsProtectionInfo
 			{
 				class Face
