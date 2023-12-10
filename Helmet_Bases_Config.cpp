@@ -46,7 +46,7 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 		class ItemInfo: HeadgearItem
         {
             mass=1;
-            uniformModel="\OPTRE_UNSC_Units\Army\aa_helmet";
+            uniformModel="\OPTRE_UNSC_Units\Army\Recon_helmet";
 			modelSides[]={6};
             class HitpointsProtectionInfo
 			{
@@ -96,7 +96,7 @@ class 24th_Helmet_Base: OPTRE_UNSC_CH252A_Helmet_Base
 		class ItemInfo: HeadgearItem
         {
             mass=1;
-            uniformModel="\OPTRE_UNSC_Units\Army\aa_helmet";
+            uniformModel="\OPTRE_UNSC_Units\Army\Recon_helmet";
 			modelSides[]={6};
             class HitpointsProtectionInfo
 			{
