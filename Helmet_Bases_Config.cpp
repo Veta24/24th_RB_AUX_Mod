@@ -16,7 +16,7 @@ class CfgPatches {
 class cfgWeapons 
 {
   class ItemInfo;
-	class OPTRE_UNSC_CH252A_Helmet_Base;
+	class OPTRE_UNSC_Recon_Helmet;
 	class HeadgearItem;
 
 //Base Start                                                                        Mark R/B5 Helmet
