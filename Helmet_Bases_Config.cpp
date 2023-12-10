@@ -29,7 +29,10 @@ class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 		hiddenSelections[]=
 		{
 			"camo",
-			"camo2"
+			"camo2",
+			"camo3",
+			"camo4",
+			"H_Ghillie"
 		};
         hiddenSelectionsTextures[] = 
         {
@@ -81,7 +84,10 @@ class 24th_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 		hiddenSelections[]=
 		{
 			"camo",
-			"camo2"
+			"camo2",
+			"camo3",
+			"camo4",
+			"H_Ghillie"
 		};
         hiddenSelectionsTextures[] = 
         {
