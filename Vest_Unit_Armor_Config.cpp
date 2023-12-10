@@ -153,9 +153,9 @@ class 24th_Druid_Armor_SL_Snow: 24th_Armor_SL
 		author = "Veta";
 		displayName="[24th RB] Druid Armor (Ranger / Urban)";
 		hiddenSelectionsTextures[]= {
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Vest_Urban",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Armor_Urban",
-			"24th_RB_AUX\Equipment\Vests\Tex\24th_Druid_Leg_Urban",
+			"24th_RB_Aux\Vests\Tex\24th_Druid_Vest_Urban",
+			"24th_RB_Aux\Vests\Tex\24th_Druid_Armor_Urban",
+			"24th_RB_Aux\Vests\Tex\24th_Druid_Leg_Urban",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
