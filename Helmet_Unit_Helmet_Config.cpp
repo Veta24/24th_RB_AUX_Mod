@@ -142,7 +142,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 		hiddenSelections[]=
 		{
 			"camo",
-			"camo2"
+			"camo2",
+			"camo3",
+			"camo4",
+			"H_Ghillie"
 		};
         hiddenSelectionsTextures[] = 
         {
@@ -156,7 +159,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			hiddenSelections[]=
 			{
 				"camo",
-				"camo2"
+				"camo2",
+				"camo3",
+				"camo4",
+				"H_Ghillie"
 			};
 			hiddenSelectionsTextures[]=
 			{
@@ -184,7 +190,10 @@ class 24th_Druid_Helmet_Urban : 24th_Helmet_Base
 			hiddenSelections[]=
 			{
 				"camo",
-				"camo2"
+				"camo2",
+				"camo3",
+				"camo4",
+				"H_Ghillie"
 			};
 			hiddenSelectionsTextures[]=
 			{
