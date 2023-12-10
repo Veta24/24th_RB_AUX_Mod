@@ -23,8 +23,8 @@ class cfgWeapons
 
 class 24th_RB_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 	{
-		author="Idk";
-		displayName="WORK GOD DANGIT";
+		author="Veta";
+		displayName="HI MOM";
 		model="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
 		hiddenSelections[]=
 		{
@@ -77,8 +77,8 @@ class 24th_RB_Helmet_Base: OPTRE_UNSC_Recon_Helmet
 	};
 	class 24th_RB_Helmet_Base_dp: 24th_RB_Helmet_Base
 	{
-		author="Idk";
-		displayName="WORK GOD DANGIT";
+		author="Veta";
+		displayName="HI DAD";
 		model="\OPTRE_UNSC_Units\Army\recon_helmet.p3d";
 		hiddenSelections[]=
 		{
