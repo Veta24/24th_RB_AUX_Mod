@@ -5,7 +5,7 @@ class CfgPatches
 		author="Ithias";
 		requiredAddons[]=
 		{
-			"A3_Data_F_Enoch_Loadorder"
+			"A3_Data_F_Enoch_Loadorder",
 		};
 		requiredVersion=0.1;
 		units[]={};
